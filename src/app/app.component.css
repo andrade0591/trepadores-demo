@@ -1,0 +1,21 @@
+.custom-toolbar {
+  height: 50px; /* Set the desired height value */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+}
+.social-links {
+  display: flex;
+  gap: 32px;
+  justify-content: center;
+}
+.social-links a {
+  display: flex;
+  gap: 10px; /* Adjust the value as needed for the desired spacing */
+  color: white;
+}
+.footer {
+  display: flex;
+  justify-content: center;
+}

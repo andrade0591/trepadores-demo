@@ -1,0 +1,21 @@
+.logo-image {
+    height: 40px;
+    display: flex;
+  align-items: center;
+  }
+  .custom-toolbar {
+    height: 50px; /* Set the desired height value */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: black;
+  }
+  .nav-links {
+    display: flex;
+    gap: 16px; /* Adjust the value as needed for the desired spacing */
+  }
+  .nav-links a {
+    display: flex;
+    gap: 10px; /* Adjust the value as needed for the desired spacing */
+    color: white;
+  }

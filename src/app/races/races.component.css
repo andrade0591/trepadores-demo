@@ -1,0 +1,48 @@
+.race-thumbnail {
+    height: 40vh;
+  width: 40vh;
+  }
+  .race-cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    background-color: #252525;
+  }
+  
+  .race-card {
+    flex: 1 1 300px; /* Adjust the width as needed */
+    margin: 10px;
+    align-items: center;
+    background-color: #383838;
+  }
+  
+  .race-card-header {
+    display: flex;
+    justify-content: center;
+    color:white;
+  }
+  
+  .race-card-content {
+    display: flex;
+    justify-content: center;
+    color:white;
+    margin: 8px;
+  }
+  
+  .race-card-actions {
+    display: flex;
+    justify-content: center;
+    gap:8px;
+  }
+  .race-card-thumbnail {
+    display: flex;
+    justify-content: center;
+    margin: 8px;
+  }
+
+  .divider {
+    margin:8px;
+    width: 80%;
+    height: 2px;
+    background-color: #000000;
+  }

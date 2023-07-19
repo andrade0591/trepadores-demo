@@ -1,0 +1,9 @@
+.gallery-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+  }
+  .home-container {
+    background-color: #252525; /* Replace with your desired color */
+  }
